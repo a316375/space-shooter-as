@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpaceShooter.iml" filepath="$PROJECT_DIR$/SpaceShooter.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/space-shooter-as.iml" filepath="$PROJECT_DIR$/space-shooter-as.iml" group="space-shooter-as" />
+      <module fileurl="file://$PROJECT_DIR$/app/space-shooter-as-app.iml" filepath="$PROJECT_DIR$/app/space-shooter-as-app.iml" group="space-shooter-as/app" />
     </modules>
   </component>
 </project>
